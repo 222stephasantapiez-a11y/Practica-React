@@ -84,7 +84,7 @@ document.body.appendChild(button);
 
 // objetos como parametros
 const user1 = {
-    name: "Juan",
+    name: "sofia, stephanie y lina",
     age: 30
 };
 
