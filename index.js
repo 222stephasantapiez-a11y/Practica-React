@@ -4,7 +4,7 @@ console.log('Hola Mundo');
 // funciones de javascript//
 
 function hello(){
-    console.log("Hola Mundo");
+    console.log("Hola locaaaaaaaas care");
 }  
 hello();
 
